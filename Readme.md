@@ -1,1 +1,1 @@
-# GPT-Workshop-Part-2
+# AI PoC Workshop
